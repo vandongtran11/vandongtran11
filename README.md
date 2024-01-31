@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Van Dong</h1>
-<h3 align="center">A passionate frontend developer from Bolie Tran(Dong)</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandongtran11&label=Profile%20views&color=0e75b6&style=flat" alt="vandongtran11" /> </p>
 
